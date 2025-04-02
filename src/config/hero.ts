@@ -18,9 +18,9 @@ export const hero: Hero = {
   typeAnimationTexts: [
     "擔任機器人社活動長",
     1000,
-    "創辦程式貓教育社群",
+    "擔任圖書股長",
     1000,
-    "擔任FRC程式組組長",
+    "擔任輔導股長",
     1000,
   ],
   achievementsList: [
