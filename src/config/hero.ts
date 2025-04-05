@@ -24,10 +24,10 @@ export const hero: Hero = {
     1000,
   ],
   achievementsList: [
-    { metric: "APCS", value: "4", postfix: "級" },
-    { metric: "競賽獲獎", value: "20", postfix: "+" },
-    { metric: "服務使用者", value: "1000", postfix: "+" },
-    { metric: "專案數量", value: "30", postfix: "+" },
-    { metric: "社群追蹤數", value: "150", postfix: "+" },
+    { metric: "國文", value: "11", postfix: "級" },
+    { metric: "英文", value: "8", postfix: "級" },
+    { metric: "數A", value: "9", postfix: "級" },
+    { metric: "社會", value: "11", postfix: "級" },
+    { metric: "數B", value: "14", postfix: "級" },
   ],
 };
