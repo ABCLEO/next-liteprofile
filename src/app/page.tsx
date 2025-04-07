@@ -11,7 +11,6 @@ export default function Home() {
         <HeroSection />
         <AboutSection />
         <Radar />
-        <TabInterface />
         <BlogSection limit={5} />
       </div>
     </main>
