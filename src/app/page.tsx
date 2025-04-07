@@ -1,6 +1,5 @@
 import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
-import TabInterface from "@/components/TabInterface";
 import BlogSection from "@/components/BlogSection";
 import Radar from "@/components/Radar";
 
