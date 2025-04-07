@@ -16,7 +16,7 @@ export const hero: Hero = {
   title: "我是 游鎧",
   description: "一位立志成為軟體工程師的高中生自我介紹",
   typeAnimationTexts: [
-    "擔任機器人社活動長",
+    "夢想成為軟體工程師",
     1000,
     "擔任圖書股長",
     1000,
